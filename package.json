@@ -1,0 +1,19 @@
+{
+  "name": "express-replay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jarthursantos/express-replay",
+  "author": "Arthur Santos <silva.arthur@academico.ifpb.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "json2yaml": "^1.1.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "sucrase": "^3.17.1"
+  }
+}
